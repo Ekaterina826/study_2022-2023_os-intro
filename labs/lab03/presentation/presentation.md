@@ -27,12 +27,8 @@ header-includes:
  - '\makeatother'
 ---
 
-# Информация
 
 ## Докладчик
-
-:::::::::::::: {.columns align=center}
-::: {.column width="70%"}
 
   * Тимофеева Екатерина Николаевна
   * студент 
